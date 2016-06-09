@@ -34,7 +34,8 @@ p {
 }
 
 .button:hover {
-	background-color: #D35400;
+	background-color:rgba(211,84,0, .85);
+	opacity: 0.4%;
 	color: #fff;
 	text-decoration: none;
 }
